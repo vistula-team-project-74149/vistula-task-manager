@@ -4,9 +4,9 @@ A small task manager built with HTML, CSS, and JavaScript. Tasks are stored in S
 
 ## Student
 
-- Vistula student ID: `REPLACE_WITH_STUDENT_ID`
-- GitHub repository: `https://github.com/USERNAME/vistula-task-manager`
-- Live application: `https://USERNAME.github.io/vistula-task-manager/`
+- Vistula student ID: `74149`
+- GitHub repository: `https://github.com/vistula-team-project-74149/vistula-task-manager`
+- Live application: `https://vistula-team-project-74149.github.io/vistula-task-manager/`
 
 ## Setup
 
